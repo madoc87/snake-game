@@ -8,5 +8,9 @@ body{
 }
 
 #startButton{
-	
+	width: 120px;
+	height: 40px;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 20px;
 }
